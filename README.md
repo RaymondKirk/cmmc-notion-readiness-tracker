@@ -21,7 +21,7 @@ The design intentionally separates **internal readiness status** from any offici
 
 ## Example walkthrough
 
-The fictional *HarborWorks Engineering* system has a review of requirement **3.5.3 (multifactor authentication)**. The reviewer finds that a service administration path lacks MFA, links a metadata-only evidence record, and opens a remediation item. After the team applies a fix, a different reviewer checks new evidence and records the decision. The original gap, dates, and reviewer remain visible. See [sample records](sample-records.md).
+The fictional *HarborWorks Engineering* system has a review of requirement **3.5.3 (multifactor authentication)**. The reviewer finds that a service administration path lacks MFA, links a metadata-only evidence record, and opens a remediation item. The planned closure step requires a different reviewer to check new evidence after the fix. Until that happens, the gap stays open. See [sample records](sample-records.md).
 
 ## What a consulting client would receive
 
